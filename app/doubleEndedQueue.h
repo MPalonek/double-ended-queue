@@ -1,3 +1,6 @@
+#ifndef DOUBLE_ENDED_QUEUE_H
+#define DOUBLE_ENDED_QUEUE_H
+
 #include <iostream>
 #include <string>
 #include <stdlib.h>
@@ -184,3 +187,5 @@ int doubleEndedQueue<T>::size()
 {
     return m_size;
 }
+
+#endif /* DOUBLE_ENDED_QUEUE_H */
