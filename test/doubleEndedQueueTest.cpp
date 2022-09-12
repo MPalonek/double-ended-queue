@@ -1,6 +1,6 @@
 #include <gtest/gtest.h> // googletest header file
 
-#include "test/../../app/doubleEndedQueue.h"
+#include "../app/doubleEndedQueue.h"
 
 // ---------------------------------------------------------------------
 // doubleEndedQueue<int> tests
